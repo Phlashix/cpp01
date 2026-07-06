@@ -1,6 +1,5 @@
 #include "Zombie.hpp"
 
-
 Zombie *zombieHorde(int nb, std::string n)
 {
 	Zombie *horde = new Zombie[nb];

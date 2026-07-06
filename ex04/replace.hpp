@@ -1,4 +1,3 @@
-#pragma once
 #ifndef __REPLACE_H__
 #define __REPLACE_H__
 
