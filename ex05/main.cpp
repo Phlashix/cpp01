@@ -3,9 +3,9 @@
 int	main(void)
 {
 	Harl		harl;
-	std::string	levels[5] = { "DEBUG", "INFO", "WARNING", "ERROR", "STAGIAIRE" };
+	std::string	levels[4] = { "DEBUG", "INFO", "WARNING", "ERROR"};
  
-	for (int i = 0; i < 5; i++)
+	for (int i = 0; i < 4; i++)
 	{
 		std::cout << "----------------------------------------" << std::endl;
 		std::cout << "Level: " << levels[i] << std::endl;
